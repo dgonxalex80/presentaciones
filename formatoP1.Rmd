@@ -1,0 +1,41 @@
+---
+title: "300MAE005 - Probabilidad y Estadística"
+subtitle: "propuesta reforma curricular FIC"  
+author:  "Departamento de Ciencias Naturales y Matemáticas" 
+       
+date: '03-10-2022'
+output:
+  xaringan::moon_reader:
+    css: xaringan-themer.css
+    nature:
+      slideNumberFormat: "%current%"
+      highlightStyle: github
+      highlightLines: true
+      ratio: 16:9
+      countIncrementalSlides: true
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+knitr::opts_chunk$set(
+  fig.width=9, fig.height=3.5, fig.retina=3,
+  out.width = "100%",
+  cache = FALSE,
+  echo = TRUE,
+  message = FALSE, 
+  warning = FALSE,
+  hiline = TRUE
+)
+```
+
+```{r xaringan-themer, include=FALSE, warning=FALSE}
+library(xaringanthemer)
+style_duo_accent(
+  primary_color = "#023047",      #"#1381B0",  # azul marino 
+  secondary_color ="#bbdffb",      # "#FF961C", # naranja
+  inverse_header_color ="#FFFFFF"  # blanco
+)
+```
+
+
+# Información básica

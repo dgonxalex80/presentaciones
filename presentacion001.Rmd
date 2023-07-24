@@ -1,0 +1,193 @@
+---
+title: "Modelos Estadísticos para la toma de decisiones"
+subtitle: "Maestría en Ciencia de Datos"  
+author: "Pontificia Universidad Javeriana Cali" 
+date: '`r Sys.Date()`'
+output:
+  xaringan::moon_reader:
+    seal: false
+    css: xaringan-themer.css
+    nature:
+      slideNumberFormat: "%current%"
+      highlightStyle: github
+      highlightLines: false
+      ratio: 16:9
+      countIncrementalSlides: false
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+knitr::opts_chunk$set(
+  fig.width=9, fig.height=3.5, fig.retina=3,
+  out.width = "100%",
+  cache = FALSE,
+  echo = TRUE,
+  message = FALSE, 
+  warning = FALSE,
+  hiline = TRUE
+)
+
+
+```
+
+```{r xaringan-themer, include=FALSE, warning=FALSE}
+library(xaringanthemer)
+style_duo_accent(
+  primary_color = "#0d3b66",
+  secondary_color = "#f4d35e",
+  inverse_header_color = "#FFFFFF"
+)
+```
+
+class: center, middle
+background-image: url(img/banner0.png)  /* Reemplaza "path_to_image.png" con la ruta de tu imagen de fondo */
+background-size: 100% 100%
+background-position: center
+
+
+# **Modelos multivariados**
+# **Unidad 1**
+
+
+
+
+---
+class: top left, middle
+background-image: url(img/p3.png)
+background-size: 100% 100%
+
+## Métodos multivariados
+
+Están conformado por un grupo de métodos estadístcos que describen y resumen información de un conjunto de datos, permitiendo visualizar patrones y realizar agrupamientos.
+
+Se clasifican como:
+
+#### Métodos descriptivos :
+Análisis de Componentes Principales, Análisis Factorial, Análisis de Correspondencia
+  
+#### Métodos de Clasificación o agrupamiento (Clusterización)
+Análisis de Clustering, Análisis Discriminante
+
+#### Métodos predictivos y de Regresión
+Análisis de regresión lineal, Análisis de regresión no lineal, Modelo lineal generalizado
+
+
+---
+class: center, middle
+background-image: url(img/p3.png)
+background-size: cover
+# 
+
+---
+class: center, middle
+background-image: url(img/p3.png)
+background-size: cover
+# 
+
+
+---
+class: center, middle
+background-image: url(img/p3.png)
+background-size: cover
+# 
+
+
+---
+class: center, middle
+background-image: url(img/p3.png)
+background-size: cover
+# Gracias
+
+
+
+---
+class: center, middle
+background-image: url(img/p3.png)
+background-size: cover
+# Gracias
+
+
+
+
+---
+class: center, middle
+background-image: url(img/p3.png)
+background-size: cover
+# Gracias
+
+
+
+
+---
+class: center, middle
+background-image: url(img/p3.png)
+background-size: cover
+# Gracias
+
+
+
+
+---
+class: center, middle
+background-image: url(img/p3.png)
+background-size: cover
+# Gracias
+
+
+
+
+
+---
+class: center, middle
+background-image: url(img/p3.png)
+background-size: cover
+# Gracias
+
+
+
+
+---
+class: center, middle
+background-image: url(img/p3.png)
+background-size: cover
+# Gracias
+
+
+
+
+
+---
+class: center, middle
+background-image: url(img/p3.png)
+background-size: cover
+# Gracias
+
+
+
+---
+class: center, middle
+background-image: url(img/p3.png)
+background-size: cover
+# Gracias
+
+
+
+
+
+---
+class: center, middle
+background-image: url(img/p3.png)
+background-size: cover
+# Gracias
+
+
+
+
+
+
+
+
+
+
+
+

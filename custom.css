@@ -1,0 +1,27 @@
+body {
+  color: #686868; /* Color de texto general */
+  background-color: #f2f2f2; /* Color de fondo principal */
+}
+
+.remark-slide-content {
+  background-color: #ffffff; /* Color de fondo de las diapositivas */
+  color: #686868; /* Color de texto en las diapositivas */
+}
+
+.remark-slide-content h1,
+.remark-slide-content h2,
+.remark-slide-content h3,
+.remark-slide-content h4,
+.remark-slide-content h5,
+.remark-slide-content h6 {
+  color: #686868; /* Color de texto de los encabezados */
+}
+
+.remark-slide-container:first-child .remark-slide-content {
+  background-color: #034A94; /* Color de fondo de la portada */
+  color: #ffffff; /* Color de texto en la portada */
+}
+
+.remark-slide-number {
+  color: #0EAB0C6; /* Color de texto del número de diapositiva */
+}
